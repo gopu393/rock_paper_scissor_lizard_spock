@@ -1,3 +1,15 @@
+#winning rules are as follows
+# paper vs rock = paper wins
+# rock vs scissor = rock wins
+# scissor vs paper = scissor wins
+# rock vs lizard = rock wins
+#  lizard vs spock = lizard wins
+# spock vs scissor = spock wins
+# scissor vs lizard = scissor wins
+# lizard vs paper = lizard
+# paper vs spock = paper wins
+# spock vs rock = spock wins
+
 import random
 l=["rock","paper","scissor","lizard","spock"]
 u_count=0
